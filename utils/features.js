@@ -1,0 +1,3 @@
+class AppFeatures {
+    // not yet
+}
